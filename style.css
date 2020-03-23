@@ -5,6 +5,12 @@
 	width: 35em
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {
 	display: block
