@@ -1,1 +1,1 @@
-thecelebrityarchive.github.io
+The Celebrity Archive is a high quality repository of media, devoted to archiving and conserving anything pertaining to public figures, especially digital images, videos and documents, such as magazines. The Archive is a culmination of various projects and websites, coming together to create a collection that is unrivalled in quality.
